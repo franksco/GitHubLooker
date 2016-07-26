@@ -1,6 +1,6 @@
 # Github Looker
 
-#### Type a name and look at their projects
+#### JavaScript Week 2 Code Review
 
 #### by Cory Franks 5/13
 ## Description
